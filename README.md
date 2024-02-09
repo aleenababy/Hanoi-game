@@ -9,10 +9,10 @@ This is a Python implementation of the classic Tower of Hanoi puzzle game. The o
 ## How to Play
 
 1. Clone the repository to your local machine using the following command:
-git clone https://github.com/aleenababy/hanoi-game.git
+git clone https://github.com/aleenababy/Hanoi-game.git
 
 2. Navigate to the project directory:
-      cd hanoi-game
+      cd Hanoi-game
 3. Run the game using Python:
       python hanoi_game.py
 
