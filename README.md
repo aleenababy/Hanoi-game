@@ -23,7 +23,6 @@ git clone https://github.com/aleenababy/Hanoi-game.git
 - Interactive command-line interface (CLI) for playing the game.
 - Recursive algorithm implementation for solving the Tower of Hanoi puzzle efficiently.
 
-## Screenshots
 
 ![How it looks?](./Hanoi-game.png)
 
